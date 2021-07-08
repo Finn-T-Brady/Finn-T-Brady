@@ -1,7 +1,6 @@
 # Hello
 
 **DON'T YOU LECTURE ME WITH YOUR 30 DOLLAR HAIRCUT!**
-
 ![swag](/swag.jpeg)
 ![swag](/swag.jpeg)
 ![swag](/swag.jpeg)
