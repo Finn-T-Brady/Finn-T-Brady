@@ -1,1 +1,2 @@
-I'll probably have something written here once I've done something with my life.
+Computer Science student attending Sheffield Hallam University.
+Hobbies and interests include `Computer Science`, `Programming`, `C`, `Fighting Games`, `Retro FPS games`, `shmups`, and `Functional Programming`.
