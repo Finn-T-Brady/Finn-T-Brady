@@ -4,4 +4,4 @@ The main language I work in is C, though I also know Haskell and am learning Rus
 Outside of programming I also play a lot of fighting games, map for 90's FPSs, and watch tokusatsu.\
 \
 No fear, no pain, 👍\
-Chou henshin da!
+Chou henshin!
